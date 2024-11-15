@@ -1,6 +1,6 @@
 # Hi, I'm Maxime 👋
 
-SEO Consultant & Product Builder with a PhD background in Economics. I help businesses grow through data-driven SEO, custom WordPress development, and process automation.
+SEO Consultant & Product Builder with a research background in Economics. I help businesses grow through data-driven SEO, custom WordPress development, and process automation.
 
 🔍 SEO & Analytics | 💻 WordPress Dev | 🛠 No-code Solutions
 
